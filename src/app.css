@@ -1,0 +1,22 @@
+.container{
+  display: flex;
+  background-color: rgba(226, 207, 193, 0.3);
+  margin-top: 10px;
+  
+}
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+

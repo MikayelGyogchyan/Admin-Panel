@@ -1,0 +1,38 @@
+.userList{
+  flex: 4;
+}
+
+.userListUser{
+  display: flex;
+  align-items: center;
+}
+
+.userNameImg{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.userListEdit{
+  border: none;
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: #27aa6b;
+  color: white;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+  color: rgba(86, 36, 208, 0.9) !important ;
+}
+
+.userListDelete{
+  color: rgb(160, 39, 39);
+  cursor: pointer;
+}
+
+
+
